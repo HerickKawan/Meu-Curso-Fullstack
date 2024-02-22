@@ -1,0 +1,33 @@
+[
+    {
+        "t":"Samsung",
+        "modelo":"A31",
+        "marca":"Samsung",
+        "armazenamento":"128GB",
+        "ram":"4GB"
+    },
+    {
+        "t":"Xiaomi",
+        "modelo":"Mi 14 pro",
+        "marca":"Xiaomi",
+        "armazenamento":"256GB",
+        "ram":"12GB"
+
+    },
+    {
+        "t":"Motorola",
+        "modelo":"Moto G53",
+        "marca":"Motorola",
+        "armazenamento":"128GB",
+        "ram":"4GB"
+
+    }
+
+
+
+
+
+
+
+
+]
