@@ -1,0 +1,24 @@
+[
+    {
+
+            "modelo": "Monza",
+            "marca": "Chevrolet",
+            "ano": 1995,
+            "cor":"vinho"
+    },
+
+    {
+            "modelo":"Gol",
+            "marca":"Volkswagen",
+            "ano":2020,
+            "cor":"vermelho"
+    },
+
+    {
+            "modelo":"Hilux",
+            "marca":"Toyota",
+            "ano":2024,
+            "cor":"Prata"
+    }
+
+]
