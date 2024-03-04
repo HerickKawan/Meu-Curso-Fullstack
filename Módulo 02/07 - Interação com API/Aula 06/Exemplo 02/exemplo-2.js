@@ -7,15 +7,16 @@ async function celulares(){
     //A partir deste ponto, você pode utilizar a variável grupoDiv para realizar várias operações no elemento HTML, 
     //como adicionar conteúdo, alterar estilos, ouvindo eventos, entre outras manipulações.
 
-    for(let x in celular){
-    document.body.innerHTML +=`
+    for(let x of celular)
+    grupoDiv.innerHTML +=`
     <div class = "card">
-        <h1> ${celular[x].t} </h1>
-        <p>A marca do celular é ${celular[x].marca} </p>
-        <p>O modelo do celular é ${celular[x].modelo}</p>
-        <p>Tem ${celular[x].armazenamento} de  aramazenamento</p>
-        <p>Tem ${celular[x].ram} de memória</p>
+        <img src="${x.img}" width="200" height="auto">
+        <h2> ${x.t} </h2>
+        <p>A marca do celular é ${x.marca} </p>
+        <p>O modelo do celular é ${x.modelo}</p>
+        <p>Tem ${x.armazenamento} de  aramazenamento</p>
+        <p>Tem ${x.ram} de memória</p>
    </div>
-    `}
+    `
 }
 celulares()

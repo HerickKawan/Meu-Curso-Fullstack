@@ -1,5 +1,6 @@
 [
     {
+        "img":"https://www.emmesistemas.com/imgs/productos/productos34_1165.jpg",
         "t":"Samsung",
         "modelo":"A31",
         "marca":"Samsung",
@@ -7,6 +8,7 @@
         "ram":"4GB"
     },
     {
+        "img":"https://th.bing.com/th/id/OIP.TJZJmrperNPmoNCRVWTlQAHaIF?rs=1&pid=ImgDetMain",
         "t":"Xiaomi",
         "modelo":"Mi 14 pro",
         "marca":"Xiaomi",
@@ -15,6 +17,7 @@
 
     },
     {
+        "img":"https://th.bing.com/th/id/OIP.qvnwx8X61NDPmuAHgw2eqAHaHa?rs=1&pid=ImgDetMain",
         "t":"Motorola",
         "modelo":"Moto G53",
         "marca":"Motorola",

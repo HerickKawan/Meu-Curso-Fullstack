@@ -1,0 +1,38 @@
+[
+    {
+        "t":"https://http2.mlstatic.com/D_NQ_NP_842701-MLA74342311751_022024-O.webp",
+       "marca":"Samsung",
+       "modelo":"S24 Ultra",
+       "armazenamento":"512GB",
+        "ram":"12GB"
+    },
+    {
+        "t":"https://a-static.mlcdn.com.br/800x560/apple-iphone-15-pro-max-256gb-titanio-natural-67-48mp-ios-5g/magazineluiza/237922600/82b62d765f251a646ed8f83d4fa25ede.jpg",
+        "marca":"Iphone",
+       "modelo":"15 pro max",
+       "armazenamento":"256GB",
+        "ram":"8GB"
+       
+    },
+    {
+        "t":"https://http2.mlstatic.com/D_NQ_NP_681482-MLB74034634326_012024-O.webp",
+        "marca":"Xiaomi",
+       "modelo":"Note 13 pro",
+       "armazenamento":"256GB",
+        "ram":"8GB"
+    },
+    {
+        "t":"https://a-static.mlcdn.com.br/800x560/smartphone-motorola-moto-g53-128gb-grafite-5g-snapdragon-480-octa-core-4gb-ram-65-cam-dupla-selfie-8mp-dual-chip/magazineluiza/237166100/7552485e84e840f9353a8451f504397a.jpg",
+        "marca":"Motorola",
+       "modelo":"moto G53",
+       "armazenamento":"128GB",
+        "ram":"4GB"
+    },
+    {
+        "t":"https://imgs.casasbahia.com.br/1563775369/1xg.jpg",
+        "marca":"Asus",
+       "modelo":"ROG phone 7",
+       "armazenamento":"512GB",
+        "ram":"12GB"
+    }
+]
