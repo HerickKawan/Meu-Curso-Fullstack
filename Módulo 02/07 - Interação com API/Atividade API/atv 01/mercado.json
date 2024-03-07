@@ -1,0 +1,44 @@
+[
+    {   
+        "img":"https://http2.mlstatic.com/D_NQ_NP_889779-MLA51441804856_092022-O.webp",
+        "produto":"Arroz",
+        "marca":"Tio João",
+        "kilo":"5 kg",
+        "preço":"R$ 39,90"
+    },
+    {
+        "img":"https://http2.mlstatic.com/D_NQ_NP_724956-MLU74226077857_012024-O.webp",
+        "produto":"Feijão Carioca",
+        "marca":"Kicaldo",
+        "kilo":"1 kg",
+        "preço":"R$ 9,45"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.cDeY7rzEp0MX6lek9aVqkgHaHa?rs=1&pid=ImgDetMain",
+        "produto":"Picanha Bovina",
+        "marca":"EXTRA BASSI",
+        "kilo":"1 kg",
+        "preço":"R$ 127,90"
+    },  
+    {
+        "img":"https://th.bing.com/th/id/R.0a84399e983919754cae60bc39bb6643?rik=JSb8mLRhvVjIJw&pid=ImgRaw&r=0",
+        "produto":"CERVEJA LAGER",
+        "marca":" IMPÉRIO",
+        "kilo":"600ML",
+        "preço":"R$ 6,99"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.Bt24HyUnozPLQ-PIBS5y4wHaHa?rs=1&pid=ImgDetMain",
+        "produto":"GALINHA CONGELADA",
+        "marca":" Q'DELÍCIA",
+        "kilo":"1 kg",
+        "preço":"R$ 4,79"
+    }, 
+    {
+        "img":"https://a-static.mlcdn.com.br/800x560/guarana-antartica-1-litro/tioli/f722a130ab7a11ec9aef4201ac18506b/f31eb05bacd2cf701ee93e61c88af654.jpeg",
+        "produto":"REFRIGERANTE",
+        "marca":"GUARANÁ ANTARCTIDA",
+        "kilo":"1L",
+        "preço":"R$ 3,59"
+    }
+]

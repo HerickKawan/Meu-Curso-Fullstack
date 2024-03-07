@@ -12,10 +12,6 @@ async function celulares(){
         <p>${x.modelo}</p>
         <p>${x.armazenamento}</p>
         <p>${x.ram}</p>
-        
-        
-        
-        
     </div>
     `
     
