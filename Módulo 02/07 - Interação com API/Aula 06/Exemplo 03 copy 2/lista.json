@@ -1,18 +1,21 @@
 [
     {
         "id": 1,
+        "img":"https://http2.mlstatic.com/D_NQ_NP_702934-MLB69346865049_052023-O.webp",
         "nome":"Drone Dji Mini 2",
         "valorComDesconto":1699,
         "valorSemDesconto": 2000
     },
     {
         "id": 2,
+        "img":"https://imgs.casasbahia.com.br/55054570/1g.jpg",
         "nome":"Ventilador Arno Turbo",
         "valorComDesconto":120,
         "valorSemDesconto": 155
     },
     {
         "id": 3,
+        "img":"https://a-static.mlcdn.com.br/800x560/smart-tv-full-hd-led-43-samsung-43t5300a-wi-fi-hdr-2-hdmi-1-usb/eacinformaticaecelulares/2a031492de0d11eea4fd4201ac185040/2ed0cc2b5497ff693331d82fe1082ad3.jpeg",
         "nome":" Tv 43 Smart Samsung",
         "valorComDesconto": 1599,
         "valorSemDesconto": 2000

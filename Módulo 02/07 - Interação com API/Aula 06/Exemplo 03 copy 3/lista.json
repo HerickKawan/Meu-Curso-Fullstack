@@ -1,18 +1,21 @@
 [
     {
         "id": 1,
+        "img":"",
         "nome":"Drone Dji Mini 2",
         "valorComDesconto":1699,
         "valorSemDesconto": 2000
     },
     {
         "id": 2,
+        "img":"",
         "nome":"Ventilador Arno Turbo",
         "valorComDesconto":120,
         "valorSemDesconto": 155
     },
     {
         "id": 3,
+        "img":"",
         "nome":" Tv 43 Smart Samsung",
         "valorComDesconto": 1599,
         "valorSemDesconto": 2000
