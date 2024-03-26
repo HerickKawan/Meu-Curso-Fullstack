@@ -11,15 +11,14 @@ async function buscar(){
                 <img src="${produto.img}" width="250" height="200">
                 <div class="valores">
                     <span class="valorCom"> R$ ${(produto.valorComDesconto.toFixed(2)).replace(".",",")} </span>
-                    <span class="valorSem"> R$ ${(produto.valorSemDesconto.toFixed(2)).replace(".",",")} </span>
+                    <span class="valorSem"> R$ ${(produto.valorComDesconto.toFixed(2)).replace(".",",")} </span>
                 </div>
             </div>
         
         `
     }
 
-    let divsCards = document.getElementsByClassName("card") 
-
+    let divsCards = document.getElementsByClassName("card")
     for(let card of divsCards){
         card.addEventListener("click", clicou)
     }

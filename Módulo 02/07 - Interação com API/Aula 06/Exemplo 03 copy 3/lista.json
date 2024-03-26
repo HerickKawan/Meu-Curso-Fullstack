@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "img":"",
-        "nome":"Drone Dji Mini 2",
+        "img":"https://a-static.mlcdn.com.br/800x560/cama-box-casal-ortobom-conjugado-43x138x188cm-physical-blue/magazineluiza/124354700/82fb847d3ada8a267be7d10a4eb9ad52.jpg",
+        "nome":"Cama Box Casal Ortobom",
         "valorComDesconto":1699,
         "valorSemDesconto": 2000
     },
     {
         "id": 2,
-        "img":"",
-        "nome":"Ventilador Arno Turbo",
-        "valorComDesconto":120,
-        "valorSemDesconto": 155
+        "img":"https://product-hub-prd.madeiramadeira.com.br/841364/images/25c76cdc-fa2c-4d48-9c6b-f6f0c3712e70ilebranco1681846247200zoom.jpg?width=700&canvas=1:1&bg-color=FFF",
+        "nome":"Guarda Roupa Casal",
+        "valorComDesconto":1299,
+        "valorSemDesconto": 1600
     },
     {
         "id": 3,
-        "img":"",
-        "nome":" Tv 43 Smart Samsung",
+        "img":"https://imgs.casasbahia.com.br/55057713/1g.jpg",
+        "nome":" Tv 43 Smart AOC ",
         "valorComDesconto": 1599,
         "valorSemDesconto": 2000
     }

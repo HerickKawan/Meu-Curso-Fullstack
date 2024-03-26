@@ -6,8 +6,9 @@
 
 }
 body{
-    background-color: aqua;
+    background-color: yellow;
 }
+
 
 .card{
     border: 2px solid black;
@@ -16,24 +17,25 @@ body{
     width: fit-content;
     padding: 5px;
     border-radius: 10px;
-    background-color: rgb(255, 255, 255);
     text-align: center;
+    background-color: rgb(255, 255, 255);
 }
 
-.card-index02{
+.card-Detalhes{
     border: 2px solid black;
     display: flex;
     flex-direction: column;
     width: fit-content;
-    background-color: rgb(255, 255, 255);
+    padding: 5px;
     border-radius: 10px;
     text-align: center;
+    background-color: rgb(255, 255, 255);
 }
 
 .valorCom{
-    color: green;
     font-size: 15px;
     font-weight: bold;
+    color: green;
 }
 
 .valorSem{
