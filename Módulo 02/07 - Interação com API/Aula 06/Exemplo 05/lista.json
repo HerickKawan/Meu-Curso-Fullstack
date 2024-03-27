@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "img":[
+                "https://http2.mlstatic.com/D_NQ_NP_702934-MLB69346865049_052023-O.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_2X_686807-MLA47977664054_102021-F.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_2X_993545-MLA47977563316_102021-F.webp"
+            ],
+        "nome":"Drone Dji Mini 2",
+        "valorComDesconto":1699,
+        "valorSemDesconto":2000
+    },
+    {
+        "id": 2,
+        "img":[
+                "https://imgs.casasbahia.com.br/55054570/1g.jpg",
+                "https://imgs.casasbahia.com.br/1543621163/2xg.jpg",
+                "https://imgs.casasbahia.com.br/1543621163/4xg.jpg"
+             ],
+        "nome":"Ventilador Arno Turbo",
+        "valorComDesconto":120,
+        "valorSemDesconto": 155
+    },
+    {
+        "id": 3,
+        "img":[
+                "https://a-static.mlcdn.com.br/1500x1500/smart-tv-43-uhd-4k-led-samsung-43cu7700-wi-fi-bluetooth-alexa-3-hdmi/magazineluiza/237016000/cfa76c088c18e26ce2f282766ea2fa7c.jpg",
+                "https://a-static.mlcdn.com.br/1500x1500/smart-tv-43-uhd-4k-led-samsung-43cu7700-wi-fi-bluetooth-alexa-3-hdmi/magazineluiza/237016000/4c95676d37cc01b2fd4e656888c39e35.jpg",
+                "https://a-static.mlcdn.com.br/1500x1500/smart-tv-43-uhd-4k-led-samsung-43cu7700-wi-fi-bluetooth-alexa-3-hdmi/magazineluiza/237016000/0ec1711e14ab0ee6290c544a3297e9ef.jpg"
+            ],
+        "nome":" Tv 43 Smart Samsung",
+        "valorComDesconto": 1599,
+        "valorSemDesconto": 2000
+    }
+]

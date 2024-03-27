@@ -5,9 +5,6 @@
     row-gap: 5px;
 
 }
-body{
-    background-color: yellow;
-}
 
 
 .card{
@@ -21,25 +18,27 @@ body{
     background-color: rgb(255, 255, 255);
 }
 
+
 .card-Detalhes{
     border: 2px solid black;
-    display: flex;
-    flex-direction: column;
-    width: fit-content;
-    padding: 5px;
     border-radius: 10px;
-    text-align: center;
+    width: fit-content;
     background-color: rgb(255, 255, 255);
 }
 
+
 .valorCom{
+    color: green;
     font-size: 15px;
     font-weight: bold;
-    color: green;
 }
-
 .valorSem{
     color: red;
     font-size: 15px;
     text-decoration: line-through;
 }
+
+body{
+    background-color: rgb(12, 184, 247);
+}
+
