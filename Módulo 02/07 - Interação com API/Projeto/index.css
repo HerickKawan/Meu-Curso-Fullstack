@@ -1,0 +1,41 @@
+.lista-card{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5px;
+    row-gap: 5px;
+}
+body{
+    background-color: aqua;
+}
+.card{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-Detalhes{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.valorCom{
+    color: green;
+    font-size: 15px;
+    font-weight: bold;
+}
+.valorSem{
+    color: red;
+    font-size: 15px;
+    text-decoration: line-through;
+}
+

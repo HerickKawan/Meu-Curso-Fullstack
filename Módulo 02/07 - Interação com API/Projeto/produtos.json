@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome":"Smartphone Motorola Moto G54",
+        "img":[
+            "https://imgs.casasbahia.com.br/55064349/1g.jpg",
+            "https://imgs.casasbahia.com.br/55064349/2g.jpg",
+            "https://imgs.casasbahia.com.br/55064349/3g.jpg",
+            "https://imgs.casasbahia.com.br/55064349/5g.jpg"
+            ],
+        "valorComDesconto": 999,
+        "valorSemDesconto": 1300
+    },
+    {
+        "id": 2,
+        "nome":"Smartphone Samsung Galaxy A54",
+        "img":[
+            "https://imgs.casasbahia.com.br/55058955/1g.jpg",
+            "https://imgs.casasbahia.com.br/55058955/2g.jpg",
+            "https://imgs.casasbahia.com.br/55058955/4g.jpg",
+            "https://imgs.casasbahia.com.br/55058955/7g.jpg"
+            ],
+        "valorComDesconto":1599,
+        "valorSemDesconto":1800
+    },
+    {
+        "id": 3,
+        "nome":"iPhone 13 Apple",
+        "img":[
+            "https://imgs.casasbahia.com.br/55048759/1g.jpg",
+            "https://imgs.casasbahia.com.br/55048759/2g.jpg",
+            "https://imgs.casasbahia.com.br/55048759/3g.jpg",
+            "https://imgs.casasbahia.com.br/55048759/6g.jpg"
+            ],
+        "valorComDesconto":3899,
+        "valorSemDesconto": 4000
+    },
+    {
+        "id": 4,
+        "nome":"Apple iPhone 15 Pro ",
+        "img":[
+                "https://imgs.casasbahia.com.br/55064585/1g.jpg",
+                "https://imgs.casasbahia.com.br/55064585/2g.jpg",
+                "https://imgs.casasbahia.com.br/55064585/3g.jpg",
+                "https://imgs.casasbahia.com.br/55064585/4g.jpg"
+            ],
+        "valorComDesconto":6799,
+        "valorSemDesconto":7200
+    },
+    {
+        "id": 5,
+        "nome":"Smartphone Xiaomi Redmi Note 13 ",
+        "img":[
+                "https://imgs.casasbahia.com.br/1565115721/1xg.jpg",
+                "https://imgs.casasbahia.com.br/1565115721/2xg.jpg",
+                "https://imgs.casasbahia.com.br/1565115721/3xg.jpg",
+                "https://imgs.casasbahia.com.br/1565115721/4xg.jpg"
+            ],
+        "valorComDesconto": 2799,
+        "valorSemDesconto": 3000
+    },
+    {
+        "id": 6,
+        "nome":"Smartphone Xiaomi Redmi Note 12 ",
+        "img":[
+                "https://imgs.casasbahia.com.br/1560769938/1xg.jpg",
+                "https://imgs.casasbahia.com.br/1560769938/2xg.jpg",
+                "https://imgs.casasbahia.com.br/1560769938/3xg.jpg",
+                "https://imgs.casasbahia.com.br/1560769938/4xg.jpg"
+            ],
+        "valorComDesconto":3399,
+        "valorSemDesconto":3800
+    }
+]

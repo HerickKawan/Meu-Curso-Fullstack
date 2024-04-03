@@ -7,7 +7,7 @@ async function buscar(){
     for( let produto of converter){
         DivLista.innerHTML += `
             <div class="card" data-id="${produto.id}">
-                <h1>${produto.nome}</h1>
+                <h3>${produto.nome}</h3>
                 <img src="${produto.img}" width="250" height="200">
                 <div class="valores">
                     <span class="valorCom"> R$ ${(produto.valorComDesconto.toFixed(2)).replace(".",",")} </span>
@@ -24,10 +24,10 @@ async function buscar(){
         card.addEventListener("click", clicou)
     }
 
-    function clicou(){
+   
+}
+ function clicou(){
         let elementoID = this.getAttribute("data-id")
         window.location.href = "Detalhes.html?produto-id=" + elementoID
     }
-}
-
 buscar()
