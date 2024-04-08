@@ -20,6 +20,7 @@ async function buscarDetalhes(){
     <div class="card-Detalhes">
         <h3>${produtos[indiceProd].nome}</h3>
         <img src="${produtos[indiceProd].img[0]}" id="frame" width="300" height="250">
+        <span>${produtos[indiceProd].descriçao}</span>
         <div class="miniaturas" id="miniaturas">
             
         </div>

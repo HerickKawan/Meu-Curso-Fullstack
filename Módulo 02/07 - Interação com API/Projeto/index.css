@@ -1,7 +1,10 @@
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(155, 231, 241);
     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
@@ -28,13 +31,7 @@ body{
 .navbar-detalhes{
     background-color: yellow;
     height: 50px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-bottom: 10px;
+    width: 100%;
 }
 
 .elemento{
@@ -52,10 +49,12 @@ a{
     flex-wrap: wrap;
     column-gap: 10px;
     row-gap: 10px;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
 }
 .card{
     
-    border: 2px solid black;
+    
     display: flex;
     flex-direction: column;
     width: 250px;
@@ -66,7 +65,7 @@ a{
     text-align: center;
 }
 .card-Detalhes{
-    border: 2px solid black;
+   
     display: flex;
     flex-direction: column;
     width: fit-content;
@@ -74,6 +73,11 @@ a{
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     text-align: center;
+}
+
+.detalhes{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
 }
 
 .valorCom{
@@ -88,5 +92,21 @@ a{
 }
 
 .botao{
-    height: fit-content;
+    padding: 10px 1%;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(155, 231, 241);
+    border: 0;
+    border-radius: 30%;
+    
+}
+
+.botao-detalhes{
+    padding: 10px 1%;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(155, 231, 241);
+    border: 0;
+    border-radius: 30%;
+    
 }

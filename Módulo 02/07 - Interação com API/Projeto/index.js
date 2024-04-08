@@ -23,6 +23,11 @@ async function buscar(){
     for(let card of divsCards){
         card.addEventListener("click", clicou)
     }
+
+    
+
+
+
 }
 
 function clicou(){
