@@ -19,6 +19,7 @@ body{
 .navbar{
     background-color: yellow;
     height: 50px;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -31,7 +32,7 @@ body{
 .navbar-detalhes{
     background-color: yellow;
     height: 50px;
-    width: 100%;
+    width: 80%;
 }
 
 .elemento{
@@ -51,10 +52,10 @@ a{
     row-gap: 10px;
     justify-content: space-between;
     background-color: rgb(255, 255, 255);
+    border-radius: 2%;
+    
 }
 .card{
-    
-    
     display: flex;
     flex-direction: column;
     width: 250px;
@@ -65,7 +66,6 @@ a{
     text-align: center;
 }
 .card-Detalhes{
-   
     display: flex;
     flex-direction: column;
     width: fit-content;
@@ -73,17 +73,21 @@ a{
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     text-align: center;
+    
 }
 
 .detalhes{
     background-color: rgb(255, 255, 255);
     width: 80%;
+    border-radius: 2%;
+    display: flex;
 }
 
 .valorCom{
     color: green;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
+
 }
 .valorSem{
     color: red;
@@ -91,13 +95,12 @@ a{
     text-decoration: line-through;
 }
 
+
 .botao{
-    padding: 10px 1%;
-    font-size: 18px;
-    font-weight: 600;
     background-color: rgb(155, 231, 241);
-    border: 0;
-    border-radius: 30%;
+    border-radius: 5%;
+    height: 30px;
+    width: 40px;
     
 }
 

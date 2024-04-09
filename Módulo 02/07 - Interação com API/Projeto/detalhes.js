@@ -20,7 +20,7 @@ async function buscarDetalhes(){
     <div class="card-Detalhes">
         <h3>${produtos[indiceProd].nome}</h3>
         <img src="${produtos[indiceProd].img[0]}" id="frame" width="300" height="250">
-        <span>${produtos[indiceProd].descriçao}</span>
+       
         <div class="miniaturas" id="miniaturas">
             
         </div>
@@ -28,7 +28,8 @@ async function buscarDetalhes(){
             <span class="valorCom"> R$ ${produtos[indiceProd].valorComDesconto.toFixed(2).replace(".",",")}</span>
             <span class="valorSem"> R$ ${produtos[indiceProd].valorSemDesconto.toFixed(2).replace(".",",")}</span>
         </div>
-    </div>
+    </div> 
+    <span class="descriçao">${produtos[indiceProd].descriçao}</span>
     `
 
     let divMiniaturas = document.getElementById("miniaturas")
