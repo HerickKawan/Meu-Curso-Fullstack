@@ -17,25 +17,28 @@ async function buscarDetalhes(){
 
     
     document.getElementById("detalhes").innerHTML += `
-    <div class="card-Detalhes">
         <h3>${produtos[indiceProd].nome}</h3>
-        <img src="${produtos[indiceProd].img[0]}" id="frame" width="300" height="250">
-       
-        <div class="miniaturas" id="miniaturas">
+        <div class="pg-compra"> 
+        
+            <div class="card-Detalhes">
+                <img src="${produtos[indiceProd].img[0]}" id="frame" width="300" height="250">
+                <div class="miniaturas" id="miniaturas"></div>
+            </div>
+            <div class="valoresDetalhes">
+                <span class="valorCom"> R$ ${produtos[indiceProd].valorComDesconto.toFixed(2).replace(".",",")}</span>
+                <span class="valorSem"> R$ ${produtos[indiceProd].valorSemDesconto.toFixed(2).replace(".",",")}</span>
+            </div>
             
         </div>
-        <div class="valoresDetalhes">
-            <span class="valorCom"> R$ ${produtos[indiceProd].valorComDesconto.toFixed(2).replace(".",",")}</span>
-            <span class="valorSem"> R$ ${produtos[indiceProd].valorSemDesconto.toFixed(2).replace(".",",")}</span>
-        </div>
-    </div> 
-    <span class="descriçao">${produtos[indiceProd].descriçao}</span>
+        <span class="descriçao">${produtos[indiceProd].descricao}</span>
     `
+   
+    
 
     let divMiniaturas = document.getElementById("miniaturas")
     for(let y of produtos[indiceProd].img){
         divMiniaturas.innerHTML += `
-            <img src="${y}" class="mini" width="80" height="80" style="border: 1px solid #000; border-radius: 10px">
+            <img src="${y}" class="mini" width="80" height="80"; border-radius: 10px">
         
         `
     }

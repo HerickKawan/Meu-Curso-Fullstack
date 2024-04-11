@@ -10,7 +10,7 @@
             ],
         "valorComDesconto": 999,
         "valorSemDesconto": 1300,
-        "descriçao":" Grafite 128GB, 4GB RAM, Tela de 6.5, Câmera Traseira Dupla, Selfies de 16MP, Android e Processador Octa-Core"
+        "descricao":" Grafite 128GB, 4GB RAM, Tela de 6.5, Câmera Traseira Dupla, Selfies de 16MP, Android e Processador Octa-Core"
     },
     {
         "id": 2,
@@ -23,7 +23,7 @@
             ],
         "valorComDesconto":1599,
         "valorSemDesconto":1800,
-        "descriçao":" Branco, 5G, Câmera Tripla 50MP + Selfie 32MP, RAM 8GB, Tela 6.4"
+        "descricao":" Branco, 5G, Câmera Tripla 50MP + Selfie 32MP, RAM 8GB, Tela 6.4"
     },
     {
         "id": 3,
@@ -36,7 +36,7 @@
             ],
         "valorComDesconto":3899,
         "valorSemDesconto": 4000,
-        "descriçao":" 128GB Estelar Tela de 6,1”, Câmera Dupla de 12MP"
+        "descricao":" 128GB Estelar Tela de 6,1”, Câmera Dupla de 12MP"
     },
     {
         "id": 4,
@@ -49,7 +49,7 @@
             ],
         "valorComDesconto":6799,
         "valorSemDesconto":7200,
-        "descriçao":"Apple iPhone 15 Pro Max 256 GB -Titânio Natural"
+        "descricao":"Apple iPhone 15 Pro Max 256 GB -Titânio Natural"
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@
             ],
         "valorComDesconto": 2799,
         "valorSemDesconto": 3000,
-        "descriçao":" Preto, 256GB, Tela 6,67, 8GB de RAM, Câmera Traseira Tripla, Android 13 e Processador Octa-Core"
+        "descricao":" Preto, 256GB, Tela 6,67, 8GB de RAM, Câmera Traseira Tripla, Android 13 e Processador Octa-Core"
     },
     {
         "id": 6,
@@ -75,6 +75,6 @@
             ],
         "valorComDesconto":3399,
         "valorSemDesconto":3800,
-        "descriçao":"Smartphone Xiaomi Redmi Note 12 Pro 5G 256Gb"
+        "descricao":"Smartphone Xiaomi Redmi Note 12 Pro 5G 256Gb"
     }
 ]

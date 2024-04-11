@@ -27,12 +27,16 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     margin-bottom: 10px;
+    border-radius: 10px;
+  
 }
 
 .navbar-detalhes{
     background-color: yellow;
     height: 50px;
     width: 86%;
+    border-radius: 10px;
+    margin-bottom: 40px;
 }
 
 .elemento{
@@ -54,11 +58,12 @@ a:hover{
 .lista-card{
     display: flex;
     flex-wrap: wrap;
-    column-gap: 10px;
+    column-gap: 5px;
     row-gap: 10px;
     justify-content: space-between;
+    width: 86%;
     background-color:yellow;
-    border-radius: 2%;
+    border-radius: 10px;
     
 }
 .card{
@@ -70,29 +75,39 @@ a:hover{
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     text-align: center;
-    transition: .2s;
+    transition: .3s;
 }
 
 .card:hover{
-    transform: scale(1.05);
+    transform:scale(1.05);
 
 }
 .card-Detalhes{
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     width: fit-content;
+    height: fit-content;
+    align-items: center;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: rgb(255, 255, 255);
     text-align: center;
+    border: solid black;
     
 }
 
 .detalhes{
     background-color: rgb(255, 255, 255);
     width: 86%;
-    border-radius: 2%;
+    border-radius: 10px;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+    
 }
 
 .valorCom{
@@ -123,7 +138,7 @@ button:hover{
 
 .botao-detalhes{
     background-color: rgb(155, 231, 241);
-    border-radius: 20%;
+    border-radius: 10px;
     height: 35px;
     width: 40px;
 }
@@ -132,9 +147,12 @@ button:hover{
    background-color: yellow;
    height: 50px;
    width: 86%;
-   border-radius: 1%;
+   border-radius: 10px;
    text-align: center;
+   font-weight: 700;
    
+}
 
-
+.pg-compra{
+    display: flex;
 }
