@@ -48,6 +48,9 @@ async function buscarDetalhes(){
         a.addEventListener("mouseover", deslize)
     }
 
+
+
+         
 }
 
 function deslize(){

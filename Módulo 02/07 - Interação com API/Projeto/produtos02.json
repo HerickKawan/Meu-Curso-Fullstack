@@ -1,0 +1,80 @@
+[
+    {
+        "id":7,
+        "nome":"Conjunto Sofá Luxemburgo",
+        "img":[
+            "https://imgs.casasbahia.com.br/1501116385/1xg.jpg",
+            "https://imgs.casasbahia.com.br/1501116385/4xg.jpg",
+            "https://imgs.casasbahia.com.br/1501116385/5xg.jpg",
+            "https://imgs.casasbahia.com.br/1501116385/6xg.jpg"
+            ],
+        "valorComDesconto":1549,
+        "valorSemDesconto":1721,
+        "descricao":"3 E 2 Lugares 1,52m e 2,02m Suede Café"
+    },
+    {
+        "id":8,
+        "nome":"Cama Box ",
+        "img":[
+            "https://imgs.casasbahia.com.br/1547238853/1xg.jpg",
+            "https://imgs.casasbahia.com.br/1547238853/4xg.jpg",
+            "https://imgs.casasbahia.com.br/1547238853/2xg.jpg",
+            "https://imgs.casasbahia.com.br/1547238853/3xg.jpg"
+           ],
+        "valorComDesconto":2349,
+        "valorSemDesconto":2610,
+        "descricao":" King Colchão Ortopédico + Box 193x203x71 Double Face Espuma D33 Dourado"
+    },
+    {
+        "id":9,
+        "nome":"Guarda Roupa Casal ",
+        "img":[
+            "https://imgs.casasbahia.com.br/1540553019/1xg.jpg",
+            "https://imgs.casasbahia.com.br/1540553019/2xg.jpg",
+            "https://imgs.casasbahia.com.br/1540553019/3xg.jpg",
+            "https://imgs.casasbahia.com.br/1540553019/4xg.jpg"
+            ],
+        "valorComDesconto":1316,
+        "valorSemDesconto":1549,
+        "descricao":"6 Portas 8 Gavetas Sevilla Tcil Móveis Cinamomo/Off White"
+    },
+    {
+        "id":10,
+        "nome":"Smart TV 65 UHD 4K",
+        "img":[
+            "https://imgs.casasbahia.com.br/55060834/1g.jpg",
+            "https://imgs.casasbahia.com.br/55060834/4g.jpg",
+            "https://imgs.casasbahia.com.br/55060834/5g.jpg",
+            "https://imgs.casasbahia.com.br/55060834/13g.jpg"
+            ],
+        "valorComDesconto":3249,
+        "valorSemDesconto":4292,
+        "descricao":"Samsung 65CU7700, Processador Crystal 4K, Samsung Gaming Hub, Visual Livre de Cabos, Tela sem limites, Alexa built in"
+    },
+    {
+        "id":11,
+        "nome":"Fogão Consul 4 Bocas ",
+        "img":[
+            "https://imgs.casasbahia.com.br/6460227/1xg.jpg",
+            "https://imgs.casasbahia.com.br/6460227/4xg.jpg",
+            "https://imgs.casasbahia.com.br/6460227/5xg.jpg",
+            "https://imgs.casasbahia.com.br/6460227/6xg.jpg"
+            ],
+        "valorComDesconto":1259,
+        "valorSemDesconto":1574,
+        "descricao":"CFO4NAR com Mesa de Inox Acendimento Automático e Design Frente Única Bivolt - Inox"
+    },
+    {
+        "id":12,
+        "nome":"Estante Livreiro Multiuso Larissa Branco",
+        "img":[
+            "https://imgs.casasbahia.com.br/1560877186/1xg.jpg",
+            "https://imgs.casasbahia.com.br/1560877186/2xg.jpg",
+            "https://imgs.casasbahia.com.br/1560877186/3xg.jpg",
+            "https://imgs.casasbahia.com.br/1560877186/4xg.jpg"
+            ],
+        "valorComDesconto":179,
+        "valorSemDesconto":189,
+        "descricao":""
+    }
+]
