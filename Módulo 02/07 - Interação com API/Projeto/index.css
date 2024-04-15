@@ -83,7 +83,7 @@ a:hover{
     display: flex;
     flex-direction: column;
     width: 250px;
-    height: 300px;
+    height: 350px;
     padding: 5px;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
@@ -95,7 +95,7 @@ a:hover{
     display: flex;
     flex-direction: column;
     width: 250px;
-    height: 300px;
+    height: 350px;
     padding: 5px;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
@@ -118,11 +118,12 @@ a:hover{
     align-items: center;
     padding: 5px;
     border-radius: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     text-align: center;
-    border: solid black;
+    
     
 }
+
 
 .detalhes{
     background-color: rgb(255, 255, 255);
@@ -130,7 +131,8 @@ a:hover{
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
+    
 }
 
 .valorCom{
@@ -168,23 +170,48 @@ button:hover{
 
 .titulo-celulares{
    background-color: yellow;
-   height: 50px;
+   height: 30px;
    width: 86%;
    border-radius: 10px;
-   text-align: center;
+  
    font-weight: 700;
+   
    
 }
 
 .titulo-casa{
     background-color: yellow;
-    height: 50px;
+    height: 30px;
     width: 86%;
     border-radius: 10px;
-    text-align: center;
+    
     font-weight: 700;
 }
 
 .pg-compra{
     display: flex;
+
 }
+.botoes{
+    display: flex;
+    flex-direction: column;
+}
+
+.botao-compra{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: green;
+}
+
+.botao-retira{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+
+.valores{
+    padding: 35px;
+}
+

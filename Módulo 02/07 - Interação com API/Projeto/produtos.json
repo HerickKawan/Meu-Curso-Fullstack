@@ -10,7 +10,7 @@
             ],
         "valorComDesconto": 999,
         "valorSemDesconto": 1300,
-        "descricao":" Grafite 128GB, 4GB RAM, Tela de 6.5, Câmera Traseira Dupla, Selfies de 16MP, Android e Processador Octa-Core"
+        "descricao":" Grafite 128GB, 4GB RAM, Tela de 6.5"
     },
     {
         "id": 2,
@@ -62,7 +62,7 @@
             ],
         "valorComDesconto": 2799,
         "valorSemDesconto": 3000,
-        "descricao":" Preto, 256GB, Tela 6,67, 8GB de RAM, Câmera Traseira Tripla, Android 13 e Processador Octa-Core"
+        "descricao":" Preto, 256GB, Tela 6,67, 8GB de RAM"
     },
     {
         "id": 6,
