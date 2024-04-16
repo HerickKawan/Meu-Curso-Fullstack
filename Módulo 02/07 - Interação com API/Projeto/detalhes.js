@@ -1,12 +1,16 @@
 async function buscarDetalhes(){
-  
-    let busca = await fetch("produtos.json")
-    let produtos = await busca.json()
-
     let parametros = new URLSearchParams(window.location.search)
     let parametroID = parametros.get("produto-id")
 
-   
+    let busca 
+    if(parametroID >= 7){
+        busca = await fetch("produtos02.json")
+    }else{
+        busca = await fetch("produtos.json")
+    }
+        
+    let produtos = await busca.json()
+
     let indiceProd 
     for(let x in produtos){
        
