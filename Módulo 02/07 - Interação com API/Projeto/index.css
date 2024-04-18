@@ -1,19 +1,17 @@
 
 body{
     background-color: aqua;
-    color: black;
     margin: 0px;
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
     
+    
 }
 
-.darkMode{
-    background-color: black;
-    color: aqua;
-}
+
+
 
 
 .menu{
@@ -72,6 +70,7 @@ a:hover{
     width: 86%;
     background-color:yellow;
     border-radius: 10px;
+    box-shadow: 1px 1px 1px ;
     
 }
 
@@ -84,6 +83,7 @@ a:hover{
     width: 86%;
     background-color:yellow;
     border-radius: 10px;
+    
 }
 
 
@@ -139,7 +139,7 @@ a:hover{
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    
     
 }
 
@@ -239,4 +239,12 @@ button:hover{
     width: 84%;
     border-radius: 15px;
     text-align: center;
+}
+
+.botoes-zap{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    
 }

@@ -49,13 +49,7 @@ async function buscar(){
         card02.addEventListener("click", clicou)
     }
 
-    let darkMode = document.getElementById('darkMode')
-    let body = document.querySelector('body')
-
-    darkMode.addEventListener('click', ()=>{
-        darkMode.classList.toggle('dark')
-    })
-
+   
    
 }
 
