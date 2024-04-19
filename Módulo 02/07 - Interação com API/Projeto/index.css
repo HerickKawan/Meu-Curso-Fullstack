@@ -164,6 +164,8 @@ a:hover{
     transition: .2s;
 }
 
+
+
 .escuro-claro{
     background-color:black;
     border-radius: 20%;
@@ -228,6 +230,13 @@ button:hover{
     background-color: yellow;
 }
 
+.botao-add-carrinho{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(3, 65, 253);
+}
+
 .valores{
     padding: 35px;
 }
@@ -241,10 +250,40 @@ button:hover{
     text-align: center;
 }
 
+
 .botoes-zap{
-    width: 200px;
+    width: 400px;
     height: 200px;
     display: flex;
     flex-direction: column;
     
+}
+
+.chama-zap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    width: 86%;
+    background-color: yellow;
+}
+
+.chama-zap-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #fafafa;
+}
+
+.botao-compra-zap{
+    border-radius: 10px;
+    height: 50px;
+    
+}
+
+.botao-posvenda-zap{
+    border-radius: 10px;
+    height: 50px;
 }

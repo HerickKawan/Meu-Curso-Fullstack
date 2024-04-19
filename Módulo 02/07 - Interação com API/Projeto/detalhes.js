@@ -35,10 +35,15 @@ async function buscarDetalhes(){
             </div>
             <div class="botoes">
                 <button class="botao-compra">
+                    <a href="compra.html">
                     Comprar
+                    </a>
                 </button>
                 <button class="botao-retira">
                     Retira Rapido
+                </button>
+                <button class="botao-add-carrinho">
+                    Adicionar ao Carrinho
                 </button>
             </div>
 
