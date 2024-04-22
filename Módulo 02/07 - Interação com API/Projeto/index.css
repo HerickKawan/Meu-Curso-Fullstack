@@ -287,3 +287,98 @@ button:hover{
     border-radius: 10px;
     height: 50px;
 }
+
+.lista-card-compras{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 15%;
+    
+}
+
+
+
+
+.card1-compra{
+    
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+}
+
+.card2-compra{
+    
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 400px;
+    align-items: center;
+    padding: 50px;
+}
+
+.card1-compra > button{
+    border-radius: 10px;
+    width: 90px;
+    height: 40px;
+    background-color: greenyellow;
+}
+
+.card2-compra > button{
+    border-radius: 10px;
+    width: 90px;
+    height: 40px;
+    background-color: greenyellow;
+}
+
+.card2-compra > span{
+    
+}
+
+.title-atendimento{
+    border-radius: 15px;
+    width: 40%;
+    background-color: yellow;
+    text-align: center;
+
+}
+
+.lista-card-atendimento{
+    margin: 10px;
+    width: 40%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: yellow;
+    border-radius: 15px;
+    
+}
+
+.card1-atendimento{
+    width: 200px;
+    height: 60px;
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fafafa;
+}
+
+.card2-atendimento{
+    width: 200px;
+    height: 60px;
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fafafa;
+}
+
+.card3-atendimento{
+    width: 250px;
+    height: 60px;
+    border: solid black;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fafafa;
+}
