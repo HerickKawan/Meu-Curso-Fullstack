@@ -32,6 +32,11 @@ async function buscarDetalhes(){
             <div class="valoresDetalhes">
                 <span class="valorCom"> R$ ${produtos[indiceProd].valorComDesconto.toFixed(2).replace(".",",")}</span>
                 <span class="valorSem"> R$ ${produtos[indiceProd].valorSemDesconto.toFixed(2).replace(".",",")}</span>
+                <br>
+                <input type="button" class="cor01">
+                <input type="button" class="cor02">
+                <input type="button" class="cor03">
+                <input type="button" class="cor04">
             </div>
             <div class="botoes">
                 <button class="botao-compra">
